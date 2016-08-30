@@ -11,6 +11,10 @@ cwlVersion: cwl:draft-3
 hints:
   - class: DockerRequirement
     dockerPull: debian:8
+    
+dct:creator:
+    foaf:name: "Solomon Shorser"
+    foaf:mbox: "solomon.shorser@oicr.on.ca"
 
 
 # The inputs array defines the structure of the input object that describes
