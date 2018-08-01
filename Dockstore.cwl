@@ -27,6 +27,7 @@ inputs:
   - id: input
     type: File
     description: "The input file to be processed."
+    format: http://edamontology.org/format_2572
   - id: reverse_sort
     type: boolean
     default: true
@@ -41,6 +42,7 @@ inputs:
 outputs:
   - id: output
     type: File
+    format: http://edamontology.org/format_1964
     source: "#sorted/output"
     description: "The output with the lines reversed and sorted."
 
