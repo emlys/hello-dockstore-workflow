@@ -1,7 +1,7 @@
 #
 # This is a not quite so funked out workflow
 #
-class: Workflow
+class: CommandLineTool
 description: "Reverse the lines in a document, then sort those lines."
 cwlVersion: v1.0
 
