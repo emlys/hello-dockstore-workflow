@@ -2,7 +2,7 @@
 # This is a messy workflow
 #
 class: Workflow
-doc: 
+description: 
   - "Reverse the lines in a document" 
   - "then sort those lines. With Style"
 cwlVersion: v1.1
