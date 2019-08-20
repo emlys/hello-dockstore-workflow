@@ -4,7 +4,7 @@
 class: Workflow
 doc: 
   - "Reverse the lines in a document" 
-  - "then sort those lines."
+  - "then sort those lines. With Style"
 cwlVersion: v1.1
 
 # Requirements & hints specify prerequisites and extensions to the workflow.
