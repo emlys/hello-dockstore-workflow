@@ -2,9 +2,13 @@
 # This is a messy workflow
 #
 class: Workflow
+label: foo
+doc: 
+  - "Reverse the lines in a document" 
+  - "then sort those lines. With doc style"
 description: 
   - "Reverse the lines in a document" 
-  - "then sort those lines. With Style"
+  - "then sort those lines. With description "
 cwlVersion: v1.1
 
 # Requirements & hints specify prerequisites and extensions to the workflow.
