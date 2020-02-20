@@ -4,10 +4,10 @@
 class: Workflow
 label: foo
 doc: 
-  - "Reverse the lines in a document" 
+  - "Maybe Reverse the lines in a document" 
   - "then sort those lines. With doc style"
 description: 
-  - "Reverse the lines in a document" 
+  - "Maybe Reverse the lines in a document" 
   - "then sort those lines. With description "
 cwlVersion: v1.1
 
